@@ -1,0 +1,9 @@
+requests
+pprint
+black
+pylama
+colorama
+yamllint
+bandit
+pytest
+pytest-cov
